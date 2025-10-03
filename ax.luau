@@ -1,5 +1,7 @@
 local Auth = {
-	House = {},
+	House = {
+     -- soon
+	},
 	Avatar = {}
 }
 
